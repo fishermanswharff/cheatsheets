@@ -1,2 +1,2 @@
-# WDI Cheatsheets by JSON
-## Fork, clone, have at it. 
+# WDI Cheatsheets by JSONW
+## Fork, clone, have at it. Feel free to use any code from this repo.
